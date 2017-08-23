@@ -2,6 +2,7 @@ accounts
 user/security.yaml
 **~
 
+
 .sass-cache
 composer.lock
 cache/*
@@ -16,3 +17,4 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+config/security.yaml
